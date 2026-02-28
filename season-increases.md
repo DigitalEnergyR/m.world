@@ -132,6 +132,61 @@ Your increase is **5-14x the normal annual rate**. Even in the worst catch-up ye
 
 ---
 
+## COVID Price Reversal Details (May 14, 2020)
+
+The Flames initially announced 6–7.6% increases for 2020-21, then reversed them on May 14, 2020:
+
+- **Official email:** "Your 2020-21 Season Ticket pricing will be adjusted to reflect the same price as the 2019-20 season."
+- **Three options for credit** (8 remaining 2019-20 games):
+  1. Apply credit to 2020-21 + 5% Saddledome food/beverage gift card
+  2. Apply credit to 2020-21 + 3% annual interest from April 1, 2020
+  3. Full refund while maintaining membership
+- **Payment pause** until the 2020-21 schedule was officially announced
+
+---
+
+## New Rules / Policy Search Results (Feb 2026)
+
+### "Commercial Resale Member" — Not Publicly Documented
+
+After extensive searching of:
+- All CalgaryPuck forum renewal threads (2019-20 through 2026-27)
+- Official Flames T&C at am.ticketmaster.com/flames/terms
+- flamesrenewal.ca
+- Scotia Place FAQ at scotiaplace.com
+
+**No public documentation exists** for a "Commercial Resale Member" pricing tier. The term does not appear in:
+- The official Season Ticket Terms & Conditions
+- Any CalgaryPuck forum discussion
+- Any Flames press release or communication
+
+### What the Official T&C Actually Says About Resale
+
+1. **Voiding clause:** "Season Tickets identified to be intended primarily for for-profit resale will be voided and the non-refundable deposit will be forfeited"
+2. **Termination clause:** "The Flames may, at their sole discretion, terminate any Season Tickets purchased and later determined to be primarily for commercial resale purposes"
+3. **Transfer restrictions:** Only to immediate family or corporate name changes ($100/seat admin fee)
+
+**Key observation:** The T&C provides for **voiding/termination** of tickets for commercial resale — NOT for a separate pricing tier. There is no contractual basis for charging a higher price as a "Commercial Resale Member" instead of simply terminating the membership.
+
+### Scotia Place Leverage (New Factor)
+
+- To guarantee Scotia Place seats (opening 2027-28), you must maintain continuous membership from 2024-25 through 2026-27
+- Seat selection begins Spring/Summer 2026
+- This creates enormous pressure to accept any price rather than lose your placement
+- One forum user speculated the Flames are "trying to shake some STHs loose" before the move since "the new stadium has less capacity and more luxury boxes"
+
+### Forum User Reports on Resale Difficulties
+
+Multiple CalgaryPuck users report that reselling season tickets is extremely difficult:
+- "Selling can be a real pain"
+- Whites section seats were "really hard to sell for even my cost let alone face value"
+- Mostly only Saturday games and popular opponents sell
+- "Tuesday Coyotes games" are nearly impossible to move
+
+This undermines the Flames' characterization of anyone as a "commercial reseller" — the market barely supports face-value recovery, let alone profit.
+
+---
+
 ## Sources
 
 - [2024-25 Ticket Renewal Pricing — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=195289)
@@ -140,3 +195,8 @@ Your increase is **5-14x the normal annual rate**. Even in the worst catch-up ye
 - [2025-26 Flames STH Renewal — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=198569)
 - [Flames Price Increase & Reversal (2020) — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=178485)
 - [Season Ticket Renewals Out (2019-20) — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=172796)
+- [Selling Season Tickets Through Flames Account — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=175288)
+- [Flames Season Tickets Selling — CalgaryPuck Forum](https://forum.calgarypuck.com/showthread.php?t=187243)
+- [Scotia Place FAQ](https://scotiaplace.com/stm-faq.html)
+- [Flames Season Ticket T&C](https://am.ticketmaster.com/flames/terms)
+- [Flames Renewal Site](https://www.flamesrenewal.ca/)
